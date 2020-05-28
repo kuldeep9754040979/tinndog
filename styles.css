@@ -1,0 +1,101 @@
+#title{
+  background-color: #ff4c68;
+}
+
+
+.fluid-container{
+  padding: 3% 15%;
+}
+.navbar {
+  margin: 0 0 2rem 0;
+}
+
+h1{
+
+  font-family:Monstserrat-black;
+
+  font-size: 3rem;
+  line-height: 1.5;
+  margin:0 0 4rem 0;
+}
+h2{
+  color: #fff;
+  font-family: Monstserrat-Bold;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family:"Monstserrat-light";
+}
+.Download-btn{
+  margin-left: 1rem;
+}
+.tittle-image{
+transform: rotate(25deg);
+
+margin-left: 150px;
+}
+
+#features{
+padding:7% 15%;
+c
+
+}
+.feature-box{
+text-align: center;
+padding: 4%;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: black;
+}
+
+/* testimonial section */
+  #testimonials{
+
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+  }
+.testimonials-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+.carousel-item{
+  padding:7% 15%;
+}
+
+ /* press section */
+
+ #press{
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 20px;
+
+ }
+ .press-images{
+   width: 15%;
+   margin: 20px 20px 50px;
+ }
+.h2pricingbar{
+  color: black;
+}
+#pricing{
+padding: 100px;
+text-align: center;
+}
+.row-coloumn{
+  margin-bottom: 20px;
+  text-align: center;
